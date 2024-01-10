@@ -6,7 +6,7 @@
 
 **Bold Text**
 
-_Paragraph_ goes here after to return lines in the md file.
+_Paragraph_ goes here after two return lines in the md file.
 
 > "There is pleasure in the pathless woods" -_Lord Byron_
 
