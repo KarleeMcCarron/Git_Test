@@ -1,29 +1,32 @@
 # This is a Title
+
 ## This is a subtitle
+
 ### This is a topic
+
 **Bold Text**
 
-*Paragraph* goes here after to return lines in the md file. 
+_Paragraph_ goes here after to return lines in the md file.
 
->"There is pleasure in the pathless woods" -*Lord Byron*
+> "There is pleasure in the pathless woods" -_Lord Byron_
 
-#### Favorite Musicians
+#### Favorite Classical Musicians
+
 1. Jeremy Denk
 2. Murray Perahia
 3. Ian Bostridge
 4. Edith Mathis
-5. Lady Gaga
 
 #### Unorderlist
+
 - A
 - B
 - C
 
-`
-const favColor = 'green';
-`
+`const favColor = 'green';`
+
 ---
+
 [link](google.com)
 
-:joy:
-
+Hooray! This is my first file using Markdown. :joy:
